@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+  font-family: 'Courier New', Courier, monospace;
+  color: #a1a1a1;
+}
+
+#Header-Section {
+  background-image: url(img/FOTO\ HEADER.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+}
+
+.justify {
+  text-align: justify;
+}
+.color {
+  color: #a1a1a1;
+}
+#Trabajos .image-top {
+  height: 400px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
